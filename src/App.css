@@ -1,0 +1,42 @@
+#hello{
+    border: 1px solid #000;
+}
+
+
+
+
+
+
+
+
+h1{
+    font-family: 'McLaren', cursive;
+    color: white;
+  }
+  
+  p{
+    font-family: 'McLaren', cursive;
+    color: white;
+  }
+  
+  body{
+    background-color: #445588;
+    background-image: url("/img/fondoindex.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+  
+  .container{
+    margin-top: 100px;
+  }
+  
+  img{
+    height: 100px;
+    width: 150px;
+  }
+  
+  .btn{
+    background-color: transparent;
+    border-style: none;
+  }
