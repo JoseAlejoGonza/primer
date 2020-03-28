@@ -1,6 +1,7 @@
 # INSTALACIÓN
 
-npm install 
-npm install @material-ui/core
+## npm
 
-npm start
+### npm install 
+### npm install @material-ui/core
+### npm start
