@@ -1,6 +1,11 @@
 import React from 'react';
 import './App.css';
 import Checkout from './Checkout';
+
+
+
+
+
 function Holamundo(prop){
   return(
       <div id="hello">
@@ -11,7 +16,9 @@ function Holamundo(prop){
 }
 
 function App() {
-  return (      
+  return (    
+    
+    
    <div className="col-sm-6 col-xs-8 container">
      
     <div className="row justify-content-center">
@@ -25,6 +32,7 @@ function App() {
               
               <a className="pago" >
                 <img src="/img/PSE.png">
+                 
                 </img>
                 <img src="/img/credit_card.png"></img>
                 <img src="/img/UD.png"></img>
